@@ -1,0 +1,4 @@
+server:
+  address: 0.0.0.0:8089
+database:
+  main_mysql: root:root@tcp(127.0.0.1:3307)/tp6?charset=utf8mb4&parseTime=True&loc=Local
